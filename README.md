@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Robin 👋 I'm a third-year aspiring Data Science student at NCI, based in Dublin. 📊 I'm passionate about uncovering insights from data and am eager to dive into internships starting in January! 🚀
+Hi there! I'm Robin 👋 I'm a third-year Data Science student at NCI, based in Dublin. 📊 I'm passionate about uncovering insights from data and eager to dive into internships starting in January!🚀
 
 
 ## 🌐 Socials:
